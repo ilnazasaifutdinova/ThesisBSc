@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+kaleido
+plotly
+rouge-score
+requests
+datasets

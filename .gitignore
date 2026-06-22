@@ -1,0 +1,8 @@
+# Thesis-specific
+figures/
+# Data
+data/shared_task_dev.jsonl
+.env
+*.jsonl
+# PyCharm
+.idea/
