@@ -1,8 +1,16 @@
-# Thesis-specific
-figures/
-# Data
-data/shared_task_dev.jsonl
-.env
-*.jsonl
 # PyCharm
 .idea/
+
+# Full dataset too large
+data/shared_task_dev.jsonl
+
+# Environment variables
+.env
+
+# Figures
+figures/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

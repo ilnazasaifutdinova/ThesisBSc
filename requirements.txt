@@ -1,8 +1,14 @@
 pandas
 matplotlib
 seaborn
-kaleido
 plotly
 rouge-score
 requests
 datasets
+ollama
+python-dotenv
+scikit-learn
+nbformat
+google-generativeai
+openai
+anthropic
